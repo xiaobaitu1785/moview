@@ -1,4 +1,4 @@
-### php 实现的影视系统，有需的加飞机 mogu667
+### php 实现的影视系统，技术采用苹果cms，有需的加飞机 mogu667
 
 
 ## http://movie.xiyankt.com/
